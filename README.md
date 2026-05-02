@@ -9,7 +9,7 @@
 
 | Name | LinkedIn | Role |
 |---|---|---|
-| Sreyanshu Epari | [sreyanshu-epari-851a3621b](https://www.linkedin.com/in/sreyanshu-epari-851a3621b/) | Collaborator |
+| Sreyanshu Epari | [sreyanshu-epari-851a3621b](https://www.linkedin.com/in/sreyanshu-epari-851a3621b/) | Primary Collaborator |
 | Ashutosh Maharana | [ashutoshmaharana004](https://www.linkedin.com/in/ashutoshmaharana004/) | Primary Collaborator |
 
 **Institution:** ITER, SOA University
