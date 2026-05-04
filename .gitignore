@@ -1,0 +1,12 @@
+# Ignore Obsidian workspace layout (Crucial for collaboration!)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore system files (Windows/Mac junk files)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# (Optional) Ignore the daily logs if you want to keep them private to your local machine
+# Daily-Log/
