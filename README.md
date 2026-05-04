@@ -1,6 +1,6 @@
 # Fortinet NSE 4 — Network Security Certification Journey
 
-> A hands-on lab documentation project by **Ashutosh Maharana** and **Sreyanshu Epari**
+> A hands-on lab documentation project by **Sreyanshu Epari** and **Ashutosh Maharana**
 > pursuing the Fortinet NSE 4 certification at **ITER, SOA University**, supported by **Zyvka**.
 
 ---
@@ -9,7 +9,7 @@
 
 | Name | LinkedIn | Role |
 |---|---|---|
-| Sreyanshu Epari | [sreyanshu-epari-851a3621b](https://www.linkedin.com/in/sreyanshu-epari-851a3621b/) | Primary Collaborator |
+| Sreyanshu Epari | [sreyanshu-epari-851a3621b](https://www.linkedin.com/in/sreyanshu-epari-851a3621b/) | Primary  |
 | Ashutosh Maharana | [ashutoshmaharana004](https://www.linkedin.com/in/ashutoshmaharana004/) | Primary Collaborator |
 
 **Institution:** ITER, SOA University
@@ -24,7 +24,7 @@
 | # | Lab Title | Duration | Status | Date Completed | Notes |
 |---|---|---|---|---|---|
 | 01 | System and Network Settings | 40 min | ✅ Done | 2026-05-02 | [View](./labs/lab-01-system-network-settings.md) |
-| 02 | Logging and Monitoring | 60 min | 🔜 Upcoming | — | — |
+| 02 | Logging and Monitoring | 60 min | ✅ Done | 2026-05-03 | [View](./labs/lab-02-logging-and-monitoring.md) |
 | 03 | Firewall Policies and NAT | 120 min | 🔜 Upcoming | — | — |
 | 04 | Routing | 100 min | 🔜 Upcoming | — | — |
 | 05 | Firewall Authentication | 70 min | 🔜 Upcoming | — | — |
@@ -38,7 +38,7 @@
 | 13 | High Availability (HA) | 110 min | 🔜 Upcoming | — | — |
 | 14 | Diagnostics Performance | 60 min | 🔜 Upcoming | — | — |
 
-**Progress: 1 / 14 labs complete**
+**Progress: 2 / 14 labs complete**
 
 ---
 
@@ -83,6 +83,50 @@
 
 ---
 
+## Lab 02 — Logging and Monitoring
+
+**Date completed:** 2026-05-03
+**Duration:** 60 minutes
+
+### Objectives
+
+- Configure logging on FortiGate to capture traffic, events, and security incidents
+- Forward logs to FortiAnalyzer for centralized storage and management
+- Use the Log & Report dashboard to read and interpret firewall logs
+- Understand the difference between local logging and remote logging
+
+### Lab Environment
+
+| VM | Username | Role |
+|---|---|---|
+| HQ-PC-1 | Administrator | HQ Client Machine |
+| BR1-PC-1 | Administrator | Branch Client Machine |
+| HQ-NGFW-1 | admin | HQ FortiGate Firewall |
+| BR1-FGT | admin | Branch FortiGate |
+| HQ-FAZ-1 | admin | FortiAnalyzer |
+
+### What We Did
+
+1. Enabled logging on HQ-NGFW-1 and configured log severity levels for traffic and security events.
+2. Set FortiAnalyzer (HQ-FAZ-1) as the remote log destination and verified the connection.
+3. Navigated to Log & Report on FortiGate and filtered logs by type — traffic, event, and security.
+4. Generated test traffic from HQ-PC-1 to BR1-PC-1 and confirmed the logs were captured on both local storage and FAZ.
+5. Compared local disk logging vs. FAZ logging — retention limits, query speed, and compliance use cases.
+6. Reviewed log fields: source/destination IP, policy ID, action (allow/deny), and session duration.
+
+### Key Takeaways
+
+- Logs are not just a diagnostic tool — in a real SOC, they are evidence. Every policy match, dropped packet, and failed login is recorded and used to reconstruct incidents.
+- FortiAnalyzer centralizes logs from multiple FortiGate devices (HQ + branch), making it the single source of truth for audit and compliance.
+- Local logging on FortiGate has limited retention — enterprises rely on FAZ for long-term log storage and correlation across sites.
+- Understanding log fields (policy ID, action, source/dest) is a foundational skill for any network security analyst role.
+
+### Issues Encountered
+
+- None. Log forwarding to FAZ connected cleanly once the device was registered.
+
+---
+
 ## Obsidian Notes Structure
 
 We maintain a parallel Obsidian vault for richer, interlinked notes alongside this repository.
@@ -95,7 +139,7 @@ NSE4-Vault/
 │   └── VM-Lab-Environment.md
 ├── Labs/
 │   ├── Lab-01-System-Network-Settings.md      ✅
-│   ├── Lab-02-Logging-and-Monitoring.md
+│   ├── Lab-02-Logging-and-Monitoring.md       ✅
 │   ├── Lab-03-Firewall-Policies-and-NAT.md
 │   ├── Lab-04-Routing.md
 │   ├── Lab-05-Firewall-Authentication.md
@@ -200,4 +244,4 @@ Thanks to the team at **Zyvka** for providing access to the hands-on lab environ
 
 ---
 
-*Last updated: 2026-05-02 · Lab 01 complete · 13 labs remaining*
+*Last updated: 2026-05-03 · Lab 02 complete · 12 labs remaining*
