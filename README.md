@@ -21,22 +21,22 @@
 
 ## Lab Progress
 
-| # | Lab Title | Duration | Status | Date Completed | Notes |
-|---|---|---|---|---|---|
-| 01 | System and Network Settings | 40 min | ✅ Done | 2026-05-02 | [View](./labs/lab-01-system-network-settings.md) |
-| 02 | Logging and Monitoring | 60 min | ✅ Done | 2026-05-03 | [View](./labs/lab-02-logging-and-monitoring.md) |
-| 03 | Firewall Policies and NAT | 120 min | 🔜 Upcoming | — | — |
-| 04 | Routing | 100 min | 🔜 Upcoming | — | — |
-| 05 | Firewall Authentication | 70 min | 🔜 Upcoming | — | — |
-| 06 | Fortinet Single Sign-On (FSSO) Configuration | 70 min | 🔜 Upcoming | — | — |
-| 07 | Certificate Operations | 90 min | 🔜 Upcoming | — | — |
-| 08 | Antivirus | 90 min | 🔜 Upcoming | — | — |
-| 09 | Web Filtering | 100 min | 🔜 Upcoming | — | — |
-| 10 | IPS and Application Control | 110 min | 🔜 Upcoming | — | — |
-| 11 | IPsec VPN Configuration | 110 min | 🔜 Upcoming | — | — |
-| 12 | SD-WAN Configuration | 100 min | 🔜 Upcoming | — | — |
-| 13 | High Availability (HA) | 110 min | 🔜 Upcoming | — | — |
-| 14 | Diagnostics Performance | 60 min | 🔜 Upcoming | — | — |
+| #   | Lab Title                                | Duration | Status      | Date Completed | Notes                                                                                                                                                                               |
+| --- | ---------------------------------------- | -------- | ----------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | [[LAB 01 - System and Network Settings]] | 40 min   | ✅ Done      | 2026-05-02     | [View]([./labs/lab-01-system-network-settings.md](https://github.com/sreyanshu/FORTINET-NSE-4-JOURNEY/blob/main/NSE-4/20_Labs/LAB%2001%20-%20System%20and%20Network%20Settings.md)) |
+| 02  | [[LAB 02 - Logging and Monitoring]]      | 60 min   | ✅ Done      | 2026-05-03     | [View]([./labs/lab-02-logging-and-monitoring.md](https://github.com/sreyanshu/FORTINET-NSE-4-JOURNEY/blob/main/NSE-4/20_Labs/LAB%2002%20-%20Logging%20and%20Monitoring.md))         |
+| 03  | [[LAB 03 - Firewall Policies and NAT]]   | 120 min  | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 04  | [[LAB 04 - Routing]]                     | 100 min  | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 05  | [[LAB 05 - Firewall Authentication]]     | 70 min   | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 06  | [[LAB 06 - FSSO Configuration]]          | 70 min   | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 07  | [[LAB 07 - Certificate Operations]]      | 90 min   | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 08  | [[LAB 08 - Antivirus]]                   | 90 min   | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 09  | [[LAB 09 - Web Filtering]]               | 100 min  | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 10  | [[LAB 10 - IPS and Application Control]] | 110 min  | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 11  | [[LAB 11 - IPsec VPN Configuration]]     | 110 min  | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 12  | [[LAB 12 - SD-WAN Configuration]]        | 100 min  | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 13  | [[LAB 13 - High Availability]]           | 110 min  | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
+| 14  | [[LAB 14 - Diagnostics Performance]]     | 60 min   | 🔜 Upcoming | —              | —                                                                                                                                                                                   |
 
 **Progress: 2 / 14 labs complete**
 
@@ -245,3 +245,6 @@ Thanks to the team at **Zyvka** for providing access to the hands-on lab environ
 ---
 
 *Last updated: 2026-05-03 · Lab 02 complete · 12 labs remaining*
+NSE-4/20_Labs/LAB 01 - System and Network Settings.md
+https://github.com/sreyanshu/FORTINET-NSE-4-JOURNEY/blob/79e257454820e5ebc162ac3acb5433c7e653afb9/NSE-4/20_Labs/LAB%2001%20-%20System%20and%20Network%20Settings.md
+NSE-4/20_Labs/LAB 01 - System and Network Settings.md
