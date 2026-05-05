@@ -29,11 +29,7 @@
 | Phase    | #   | Lab Title                      | Time | Status | Note Link                                |
 | :------- | :-- | :----------------------------- | :--: | :----: | :--------------------------------------- |
 | **Core** | 01  | System and Network Settings    | 40m  |   ✅    | [[LAB 01 - System and Network Settings]] |
-<<<<<<< HEAD
 | **Core** | 02  | Logging and Monitoring         | 60m  |   ✅    | [[LAB 02 - Logging and Monitoring]]      |
-=======
-| **Core** | 02  | Logging and Monitoring         | 60m  |   ✅   | [[LAB 02 - Logging and Monitoring]]      |
->>>>>>> origin/main
 | **Core** | 03  | Firewall Policies and NAT      | 120m |   🔜   | [[LAB 03 - Firewall Policies and NAT]]   |
 | **Core** | 04  | Routing                        | 100m |   🔜   | [[LAB 04 - Routing]]                     |
 | **Auth** | 05  | Firewall Authentication        | 70m  |   🔜   | [[LAB 05 - Firewall Authentication]]     |
