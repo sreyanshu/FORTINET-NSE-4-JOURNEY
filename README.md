@@ -9,11 +9,13 @@
 
 | Name | LinkedIn | Role |
 |---|---|---|
-| Sreyanshu Epari | [sreyanshu-epari-851a3621b](https://www.linkedin.com/in/sreyanshu-epari-851a3621b/) | Primary  |
+| Sreyanshu Epari | [sreyanshu-epari-851a3621b](https://www.linkedin.com/in/sreyanshu-epari-851a3621b/) | Primary |
 | Ashutosh Maharana | [ashutoshmaharana004](https://www.linkedin.com/in/ashutoshmaharana004/) | Primary Collaborator |
 
 **Institution:** ITER, SOA University
 **Supported by:** Zyvka
+**Mentor:** [Animesh Parhi](https://www.linkedin.com/in/animesh-parhi/)
+**Guide:** [Prasad Routray](https://www.linkedin.com/in/prasad-routray-97983515/)
 **Certification Target:** Fortinet NSE 4 — Network Security Professional
 **Total Lab Hours:** ~19.5 hours across 14 labs
 
@@ -21,24 +23,24 @@
 
 ## Lab Progress
 
-| #   | Lab Title                                | Duration | Status      | Date Completed | Notes                                                                                                                                                                       |
-| --- | ---------------------------------------- | -------- | ----------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01  | [[LAB 01 - System and Network Settings]] | 40 min   | ✅ Done      | 2026-05-02     | [View]([./NSE-4/20_Labs/LAB 02 - Logging and Monitoring.md))                                                                                                                |
-| 02  | [[LAB 02 - Logging and Monitoring]]      | 60 min   | ✅ Done      | 2026-05-04     | [View]([./labs/lab-02-logging-and-monitoring.md](https://github.com/sreyanshu/FORTINET-NSE-4-JOURNEY/blob/main/NSE-4/20_Labs/LAB%2002%20-%20Logging%20and%20Monitoring.md)) |
-| 03  | [[LAB 03 - Firewall Policies and NAT]]   | 120 min  | ✅ Done      | 2026-05-05     | —                                                                                                                                                                           |
-| 04  | [[LAB 04 - Routing]]                     | 100 min  | 🔜 Upcoming | —              | —                                                                                                                                                                           |
-| 05  | [[LAB 05 - Firewall Authentication]]     | 70 min   | 🔜 Upcoming | —              | —                                                                                                                                                                           |
-| 06  | [[LAB 06 - FSSO Configuration]]          | 70 min   | 🔜 Upcoming | —              | —                                                                                                                                                                           |
-| 07  | [[LAB 07 - Certificate Operations]]      | 90 min   | 🔜 Upcoming | —              | —                                                                                                                                                                           |
-| 08  | [[LAB 08 - Antivirus]]                   | 90 min   | 🔜 Upcoming | —              | —                                                                                                                                                                           |
-| 09  | [[LAB 09 - Web Filtering]]               | 100 min  | 🔜 Upcoming | —              | —                                                                                                                                                                           |
-| 10  | [[LAB 10 - IPS and Application Control]] | 110 min  | 🔜 Upcoming | —              | —                                                                                                                                                                           |
-| 11  | [[LAB 11 - IPsec VPN Configuration]]     | 110 min  | 🔜 Upcoming | —              | —                                                                                                                                                                           |
-| 12  | [[LAB 12 - SD-WAN Configuration]]        | 100 min  | 🔜 Upcoming | —              | —                                                                                                                                                                           |
-| 13  | [[LAB 13 - High Availability]]           | 110 min  | 🔜 Upcoming | —              | —                                                                                                                                                                           |
-| 14  | [[LAB 14 - Diagnostics Performance]]     | 60 min   | 🔜 Upcoming | —              | —                                                                                                                                                                           |
+| # | Lab Title | Duration | Status | Date Completed | Notes |
+|---|---|---|---|---|---|
+| 01 | [[LAB 01 - System and Network Settings]] | 40 min | ✅ Done | 2026-05-02 | [View](https://github.com/sreyanshu/FORTINET-NSE-4-JOURNEY/blob/main/NSE-4/20_Labs/LAB%2001%20-%20System%20and%20Network%20Settings.md) |
+| 02 | [[LAB 02 - Logging and Monitoring]] | 60 min | ✅ Done | 2026-05-04 | [View](https://github.com/sreyanshu/FORTINET-NSE-4-JOURNEY/blob/main/NSE-4/20_Labs/LAB%2002%20-%20Logging%20and%20Monitoring.md) |
+| 03 | [[LAB 03 - Firewall Policies and NAT]] | 120 min | ✅ Done | 2026-05-05 | [View](https://github.com/sreyanshu/FORTINET-NSE-4-JOURNEY/blob/main/NSE-4/20_Labs/LAB%2003%20-%20Firewall%20Policies%20and%20NAT.md) |
+| 04 | [[LAB 04 - Routing]] | 100 min | ✅ Done | 2026-05-06 | [View](https://github.com/sreyanshu/FORTINET-NSE-4-JOURNEY/blob/main/NSE-4/20_Labs/LAB%2004%20-%20Routing.md) |
+| 05 | [[LAB 05 - Firewall Authentication]] | 70 min | 🔜 Upcoming | — | — |
+| 06 | [[LAB 06 - FSSO Configuration]] | 70 min | 🔜 Upcoming | — | — |
+| 07 | [[LAB 07 - Certificate Operations]] | 90 min | 🔜 Upcoming | — | — |
+| 08 | [[LAB 08 - Antivirus]] | 90 min | 🔜 Upcoming | — | — |
+| 09 | [[LAB 09 - Web Filtering]] | 100 min | 🔜 Upcoming | — | — |
+| 10 | [[LAB 10 - IPS and Application Control]] | 110 min | 🔜 Upcoming | — | — |
+| 11 | [[LAB 11 - IPsec VPN Configuration]] | 110 min | 🔜 Upcoming | — | — |
+| 12 | [[LAB 12 - SD-WAN Configuration]] | 100 min | 🔜 Upcoming | — | — |
+| 13 | [[LAB 13 - High Availability]] | 110 min | 🔜 Upcoming | — | — |
+| 14 | [[LAB 14 - Diagnostics Performance]] | 60 min | 🔜 Upcoming | — | — |
 
-**Progress: 2 / 14 labs complete**
+**Progress: 4 / 14 labs complete**
 
 ---
 
@@ -85,7 +87,7 @@
 
 ## Lab 02 — Logging and Monitoring
 
-**Date completed:** 2026-05-03
+**Date completed:** 2026-05-04
 **Duration:** 60 minutes
 
 ### Objectives
@@ -110,7 +112,7 @@
 1. Enabled logging on HQ-NGFW-1 and configured log severity levels for traffic and security events.
 2. Set FortiAnalyzer (HQ-FAZ-1) as the remote log destination and verified the connection.
 3. Navigated to Log & Report on FortiGate and filtered logs by type — traffic, event, and security.
-4. Generated test traffic from HQ-PC-1 to BR1-PC-1 and confirmed the logs were captured on both local storage and FAZ.
+4. Generated test traffic from HQ-PC-1 to BR1-PC-1 and confirmed logs were captured on both local storage and FAZ.
 5. Compared local disk logging vs. FAZ logging — retention limits, query speed, and compliance use cases.
 6. Reviewed log fields: source/destination IP, policy ID, action (allow/deny), and session duration.
 
@@ -127,6 +129,94 @@
 
 ---
 
+## Lab 03 — Firewall Policies and NAT
+
+**Date completed:** 2026-05-05
+**Duration:** 120 minutes
+
+### Objectives
+
+- Create and order firewall policies to allow and deny traffic between network segments
+- Configure Source NAT (SNAT) and Destination NAT (DNAT) for address translation
+- Test and verify policy enforcement using real traffic
+- Trace policy hits using FortiGate logs and policy IDs
+
+### Lab Environment
+
+| VM | Username | Role |
+|---|---|---|
+| HQ-PC-1 | Administrator | HQ Client Machine |
+| BR1-PC-1 | Administrator | Branch Client Machine |
+| HQ-NGFW-1 | admin | HQ FortiGate Firewall |
+| BR1-FGT | admin | Branch FortiGate |
+| HQ-FAZ-1 | admin | FortiAnalyzer |
+
+### What We Did
+
+1. Created firewall policies on HQ-NGFW-1 to allow and deny traffic between internal segments and the internet.
+2. Configured SNAT to translate internal IP addresses when traffic exits to the WAN.
+3. Set up DNAT (Virtual IPs) to forward inbound traffic from the WAN to an internal server.
+4. Generated test traffic from HQ-PC-1 and BR1-PC-1 and verified allow/deny behavior in real time.
+5. Used policy IDs to trace traffic hits in the Log & Report dashboard on FortiAnalyzer.
+6. Tested policy ordering — moved rules up and down to observe how top-down matching changes traffic outcomes.
+
+### Key Takeaways
+
+- Policy order is critical — FortiGate matches top-down and stops at the first match. A misplaced rule can silently block or permit traffic.
+- SNAT hides internal IPs from the outside world; DNAT exposes internal services to external users.
+- Every enterprise network runs on firewall policies — getting this wrong means either blocking legitimate traffic or leaving gaps for attackers.
+- Policy IDs in logs are the fastest way to trace which rule is handling a specific traffic flow.
+
+### Issues Encountered
+
+- None. The 120-minute duration reflects the depth of the lab — multiple policy scenarios were tested end to end.
+
+---
+
+## Lab 04 — Routing
+
+**Date completed:** 2026-05-06
+**Duration:** 100 minutes
+
+### Objectives
+
+- Configure static routes on FortiGate to direct traffic between network segments
+- Understand how the routing table influences firewall policy decisions
+- Set up and verify routing between HQ and branch sites
+- Test route failover behavior using administrative distance
+
+### Lab Environment
+
+| VM | Username | Role |
+|---|---|---|
+| HQ-PC-1 | Administrator | HQ Client Machine |
+| BR1-PC-1 | Administrator | Branch Client Machine |
+| HQ-NGFW-1 | admin | HQ FortiGate Firewall |
+| BR1-FGT | admin | Branch FortiGate |
+| HQ-FAZ-1 | admin | FortiAnalyzer |
+
+### What We Did
+
+1. Reviewed the existing routing table on HQ-NGFW-1 and identified default and static routes.
+2. Added static routes on both HQ-NGFW-1 and BR1-FGT to enable communication between HQ and branch subnets.
+3. Tested connectivity from HQ-PC-1 to BR1-PC-1 and confirmed traffic followed the correct path.
+4. Configured a secondary route with a higher administrative distance to simulate failover behavior.
+5. Removed the primary route temporarily to verify the failover route became active automatically.
+6. Used the FortiGate routing monitor to inspect active routes in real time during testing.
+
+### Key Takeaways
+
+- The routing table is the foundation — firewall policies decide what is allowed, but routing decides where traffic goes. Both must be correct for connectivity to work.
+- Administrative distance determines route preference when multiple paths exist to the same destination. Lower distance = higher preference.
+- FortiGate's routing monitor is a practical tool for verifying that traffic will take the expected path before testing live.
+- Static routing is the foundation for understanding dynamic routing protocols (OSPF, BGP) used in enterprise environments.
+
+### Issues Encountered
+
+- None. Routing between HQ and branch came up cleanly after adding the correct static entries on both devices.
+
+---
+
 ## Obsidian Notes Structure
 
 We maintain a parallel Obsidian vault for richer, interlinked notes alongside this repository.
@@ -140,8 +230,8 @@ NSE4-Vault/
 ├── Labs/
 │   ├── Lab-01-System-Network-Settings.md      ✅
 │   ├── Lab-02-Logging-and-Monitoring.md       ✅
-│   ├── Lab-03-Firewall-Policies-and-NAT.md
-│   ├── Lab-04-Routing.md
+│   ├── Lab-03-Firewall-Policies-and-NAT.md   ✅
+│   ├── Lab-04-Routing.md                     ✅
 │   ├── Lab-05-Firewall-Authentication.md
 │   ├── Lab-06-FSSO-Configuration.md
 │   ├── Lab-07-Certificate-Operations.md
@@ -164,6 +254,9 @@ NSE4-Vault/
 │   └── HQ-Branch-Topology.canvas
 └── Daily-Log/
     ├── 2026-05-02.md
+    ├── 2026-05-04.md
+    ├── 2026-05-05.md
+    ├── 2026-05-06.md
     └── ...
 ```
 
@@ -207,21 +300,24 @@ Anything we didn't fully understand — flagged to revisit.
 ## Repository Structure
 
 ```
-nse4-journey/
-├── README.md                              ← Master progress tracker (this file)
-├── labs/
-│   ├── lab-01-system-network-settings.md
-│   ├── lab-02-logging-and-monitoring.md
-│   └── ...                               ← Added after each lab is complete
-├── concepts/
-│   ├── fortigate-architecture.md
-│   ├── nat-types.md
-│   └── ...
-└── assets/
-    └── screenshots/
-        ├── lab-01/
-        ├── lab-02/
-        └── ...
+FORTINET-NSE-4-JOURNEY/
+├── README.md                                        ← Master progress tracker (this file)
+└── NSE-4/
+    └── 20_Labs/
+        ├── LAB 01 - System and Network Settings.md  ✅
+        ├── LAB 02 - Logging and Monitoring.md       ✅
+        ├── LAB 03 - Firewall Policies and NAT.md    ✅
+        ├── LAB 04 - Routing.md                      ✅
+        ├── LAB 05 - Firewall Authentication.md
+        ├── LAB 06 - FSSO Configuration.md
+        ├── LAB 07 - Certificate Operations.md
+        ├── LAB 08 - Antivirus.md
+        ├── LAB 09 - Web Filtering.md
+        ├── LAB 10 - IPS and Application Control.md
+        ├── LAB 11 - IPsec VPN Configuration.md
+        ├── LAB 12 - SD-WAN Configuration.md
+        ├── LAB 13 - High Availability.md
+        └── LAB 14 - Diagnostics Performance.md
 ```
 
 ---
@@ -231,7 +327,7 @@ nse4-journey/
 If you're on your own NSE 4 journey and found this repository:
 
 - The **Lab Progress** table above shows where we are and links to each completed lab file.
-- Each file under `/labs/` contains objectives, environment setup, a full walkthrough, and key takeaways.
+- Each file under `NSE-4/20_Labs/` contains objectives, environment setup, a full walkthrough, and key takeaways.
 - The `/concepts/` folder contains standalone write-ups on the theory behind each topic — useful for exam prep.
 - The Obsidian vault structure above is documented if you want to replicate our note-taking approach.
 - Open an issue if you want to discuss a lab or have a question.
@@ -240,11 +336,8 @@ If you're on your own NSE 4 journey and found this repository:
 
 ## Acknowledgements
 
-Thanks to the team at **Zyvka** for providing access to the hands-on lab environment, and to the faculty at **ITER, SOA University** for supporting students who pursue certifications alongside their academic coursework.
+Thanks to mentor **Animesh Parhi** and guide **Prasad Routray** for the direction and support throughout this journey. Thanks to the team at **Zyvka** for providing access to the hands-on lab environment, and to the faculty at **ITER, SOA University** for supporting students who pursue certifications alongside their academic coursework.
 
 ---
 
-*Last updated: 2026-05-03 · Lab 02 complete · 12 labs remaining*
-NSE-4/20_Labs/LAB 01 - System and Network Settings.md
-https://github.com/sreyanshu/FORTINET-NSE-4-JOURNEY/blob/79e257454820e5ebc162ac3acb5433c7e653afb9/NSE-4/20_Labs/LAB%2001%20-%20System%20and%20Network%20Settings.md
-NSE-4/20_Labs/LAB 01 - System and Network Settings.md
+*Last updated: 2026-05-06 · Lab 04 complete · 10 labs remaining*
