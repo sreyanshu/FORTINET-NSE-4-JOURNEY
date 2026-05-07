@@ -8,3 +8,7 @@
 	- explaining problem
 	- 150-200 words
 	- problem -> Objective -> Method ->Results -> Conclusion
+- **INTRODUCTION**
+	- Background -> Problem -> Research Gap -> Objective -> Contribution
+	- Build connection from start till end from problem to solution to process of solving
+	- keeping reference point to the research. 
