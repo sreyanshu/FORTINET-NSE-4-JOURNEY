@@ -30,7 +30,7 @@
 | :------- | :-- | :----------------------------- | :--: | :----: | :--------------------------------------- |
 | **Core** | 01  | System and Network Settings    | 40m  |   ✅    | [[LAB 01 - System and Network Settings]] |
 | **Core** | 02  | Logging and Monitoring         | 60m  |   ✅    | [[LAB 02 - Logging and Monitoring]]      |
-| **Core** | 03  | Firewall Policies and NAT      | 120m |   🔜   | [[LAB 03 - Firewall Policies and NAT]]   |
+| **Core** | 03  | Firewall Policies and NAT      | 120m |   ✅    | [[LAB 03 - Firewall Policies and NAT]]   |
 | **Core** | 04  | Routing                        | 100m |   🔜   | [[LAB 04 - Routing]]                     |
 | **Auth** | 05  | Firewall Authentication        | 70m  |   🔜   | [[LAB 05 - Firewall Authentication]]     |
 | **Auth** | 06  | Fortinet Single Sign-On (FSSO) | 70m  |   🔜   | [[LAB 06 - FSSO Configuration]]          |
