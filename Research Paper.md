@@ -11,4 +11,9 @@
 - **INTRODUCTION**
 	- Background -> Problem -> Research Gap -> Objective -> Contribution
 	- Build connection from start till end from problem to solution to process of solving
-	- keeping reference point to the research. 
+	- keeping reference point to the research.
+	- Solution available but (problem still recites)
+	- our solution in short
+	- the main contribution of this paper
+	- index in one para
+	
